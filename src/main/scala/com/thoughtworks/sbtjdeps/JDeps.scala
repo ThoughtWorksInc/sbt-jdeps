@@ -1,6 +1,8 @@
+package com.thoughtworks.sbtjdeps
+
 import java.io.File
 
-import sbt.{Def, _}
+import sbt._
 import Defaults._
 import Keys._
 import com.thoughtworks.dsl.keywords.Each
