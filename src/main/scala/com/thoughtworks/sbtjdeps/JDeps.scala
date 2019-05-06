@@ -1,3 +1,5 @@
+package com.thoughtworks.sbtjdeps
+
 import java.io.File
 
 import sbt.{Def, _}
